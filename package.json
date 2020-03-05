@@ -1,0 +1,13 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "cos-wx-sdk-v5": "^0.7.9",
+    "tim-wx-sdk": "^2.5.0",
+    "xmldom": {
+      "integrity": "sha1-t2yaG9nwqXN+WnLcNyMc84N14v8=",
+      "resolved": "http://r.cnpmjs.org/xmldom/download/xmldom-0.1.31.tgz",
+      "version": "0.1.31"
+    }
+  }
+}
